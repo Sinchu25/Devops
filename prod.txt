@@ -6,3 +6,4 @@ git add prod.txt
 git add .
 git commit -m "first commit"
 git push origin main
+git pull origin main
