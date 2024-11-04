@@ -1,0 +1,4 @@
+git
+git config --global user.name "Sinchu25"
+git config --global user.email "nsinchana6@gmail.com"
+git clone https://github.com/Sinchu25/Devops.git
